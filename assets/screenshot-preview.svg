@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="500" viewBox="0 0 900 500">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1A1A2E"/>
+      <stop offset="100%" style="stop-color:#5B21B6"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="500" rx="12" fill="url(#bg)"/>
+  <text x="450" y="200" text-anchor="middle" font-family="Arial,sans-serif" font-size="36" font-weight="800" fill="white" letter-spacing="2">WEEKLY INTERN REPORT</text>
+  <text x="450" y="245" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" fill="rgba(255,255,255,0.6)">Multi-step form with hour tracking, progress reports, and feedback surveys</text>
+  <rect x="200" y="300" width="500" height="50" rx="8" fill="rgba(255,255,255,0.1)" stroke="rgba(255,255,255,0.2)" stroke-width="1"/>
+  <circle cx="280" cy="325" r="14" fill="#7C3AED" stroke="white" stroke-width="2"/>
+  <text x="280" y="330" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="700" fill="white">1</text>
+  <line x1="294" y1="325" x2="380" y2="325" stroke="rgba(255,255,255,0.3)" stroke-width="2"/>
+  <circle cx="400" cy="325" r="14" fill="rgba(255,255,255,0.15)" stroke="rgba(255,255,255,0.3)" stroke-width="2"/>
+  <text x="400" y="330" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="700" fill="rgba(255,255,255,0.5)">2</text>
+  <line x1="414" y1="325" x2="486" y2="325" stroke="rgba(255,255,255,0.3)" stroke-width="2"/>
+  <circle cx="500" cy="325" r="14" fill="rgba(255,255,255,0.15)" stroke="rgba(255,255,255,0.3)" stroke-width="2"/>
+  <text x="500" y="330" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="700" fill="rgba(255,255,255,0.5)">3</text>
+  <line x1="514" y1="325" x2="606" y2="325" stroke="rgba(255,255,255,0.3)" stroke-width="2"/>
+  <circle cx="620" cy="325" r="14" fill="rgba(255,255,255,0.15)" stroke="rgba(255,255,255,0.3)" stroke-width="2"/>
+  <text x="620" y="330" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="700" fill="rgba(255,255,255,0.5)">4</text>
+  <text x="450" y="410" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" fill="#A78BFA" font-weight="600">Hour Tracking  •  Progress Reports  •  Feedback Surveys  •  Review and Submit</text>
+  <text x="450" y="460" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="rgba(255,255,255,0.4)">HTML • CSS • JavaScript • Google Apps Script</text>
+</svg>
